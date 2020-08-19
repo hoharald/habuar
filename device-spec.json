@@ -1,0 +1,35 @@
+{
+    "name": "",
+    "description": "",
+    "inputs": [
+        {
+            "name": "",
+            "type": "",
+            "description": "",
+            "unit": ""
+        }
+    ],
+    "outputs": [
+        {
+            "name": "",
+            "type": "",
+            "description": "",
+            "unit": ""
+        }
+    ],
+    "features": [
+        {
+            "name": "",
+            "parameters": [
+                {
+                    "name": "",
+                    "type": "",
+                    "description": ""
+                }
+            ],
+            "result": {
+
+            }
+        }
+    ]
+}

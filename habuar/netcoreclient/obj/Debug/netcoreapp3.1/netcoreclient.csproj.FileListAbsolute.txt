@@ -1,0 +1,13 @@
+D:\SRC\playground\habuar\habuar\netcoreclient\bin\Debug\netcoreapp3.1\netcoreclient.exe
+D:\SRC\playground\habuar\habuar\netcoreclient\bin\Debug\netcoreapp3.1\netcoreclient.deps.json
+D:\SRC\playground\habuar\habuar\netcoreclient\bin\Debug\netcoreapp3.1\netcoreclient.runtimeconfig.json
+D:\SRC\playground\habuar\habuar\netcoreclient\bin\Debug\netcoreapp3.1\netcoreclient.runtimeconfig.dev.json
+D:\SRC\playground\habuar\habuar\netcoreclient\bin\Debug\netcoreapp3.1\netcoreclient.dll
+D:\SRC\playground\habuar\habuar\netcoreclient\bin\Debug\netcoreapp3.1\netcoreclient.pdb
+D:\SRC\playground\habuar\habuar\netcoreclient\obj\Debug\netcoreapp3.1\netcoreclient.csprojAssemblyReference.cache
+D:\SRC\playground\habuar\habuar\netcoreclient\obj\Debug\netcoreapp3.1\netcoreclient.AssemblyInfoInputs.cache
+D:\SRC\playground\habuar\habuar\netcoreclient\obj\Debug\netcoreapp3.1\netcoreclient.AssemblyInfo.cs
+D:\SRC\playground\habuar\habuar\netcoreclient\obj\Debug\netcoreapp3.1\netcoreclient.csproj.CoreCompileInputs.cache
+D:\SRC\playground\habuar\habuar\netcoreclient\obj\Debug\netcoreapp3.1\netcoreclient.dll
+D:\SRC\playground\habuar\habuar\netcoreclient\obj\Debug\netcoreapp3.1\netcoreclient.pdb
+D:\SRC\playground\habuar\habuar\netcoreclient\obj\Debug\netcoreapp3.1\netcoreclient.genruntimeconfig.cache
